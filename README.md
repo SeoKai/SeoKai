@@ -7,12 +7,17 @@
 
 ---
 
+## Contact Me
+📧 Email: [ssw123c@gmail.com](mailto:ssw123c@gmail.com)  
+📝 Notion&Portfolio: [심성완|포트폴리오](https://seong-kai.notion.site/7b968726724145ef886fe3aa5e64c165?pvs=4)
+
+
 ### **Strong**
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### **Knowledgeable**
@@ -38,9 +43,6 @@
 
 ---
 
-## Contact Me
-📧 Email: [ssw123c@gmail.com](mailto:ssw123c@gmail.com)  
-📝 Notion&Portfolio: [심성완 | 포트폴리오](https://seong-kai.notion.site/7b968726724145ef886fe3aa5e64c165?pvs=4)
 
 ## GitHub Stats
 <p align="center">

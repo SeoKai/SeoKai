@@ -13,14 +13,14 @@
   <rect x="0" y="0" width="800" height="3" fill="#1D9E75" rx="2"/>
 
   <!-- name -->
-  <text x="400" y="68" text-anchor="middle" font-size="32" font-weight="600" fill="#e6edf3" letter-spacing="-0.5">심성완 · Seong-wan Shim</text>
+  <text x="400" y="68" text-anchor="middle" font-size="32" font-weight="600" fill="#e6edf3" letter-spacing="-0.5">심성완 · Seong-wan Sim</text>
 
   <!-- tagline -->
   <text x="400" y="100" text-anchor="middle" font-size="14" fill="#8b949e">Software Developer · Changwon, KR</text>
 
   <!-- monospace pill -->
   <rect x="300" y="114" width="200" height="28" fill="#161b22" rx="6"/>
-  <text x="400" y="132" text-anchor="middle" font-size="12" fill="#1D9E75" font-family="'Courier New', monospace">$ Think. Build. Iterate.</text>
+  <text x="400" y="132" text-anchor="middle" font-size="12" fill="#1D9E75" font-family="'Courier New', monospace">「人の一生はどこまでいっても一筆書きだ。」</text>
 
   <!-- bottom divider -->
   <line x1="40" y1="170" x2="760" y2="170" stroke="#21262d" stroke-width="1"/>

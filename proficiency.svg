@@ -1,0 +1,75 @@
+<svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" width="800" height="260">
+  <defs>
+    <style>
+      text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    </style>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D9E75"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#1D9E75"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#1D9E75"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#7ee787"/>
+    </linearGradient>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e3b341"/>
+      <stop offset="100%" stop-color="#f0883e"/>
+    </linearGradient>
+    <linearGradient id="g7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6e7681"/>
+      <stop offset="100%" stop-color="#8b949e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="260" fill="#0d1117" rx="12"/>
+
+  <!-- section title -->
+  <text x="40" y="34" font-size="11" fill="#8b949e" letter-spacing="1.5" font-weight="500">PROFICIENCY</text>
+  <line x1="40" y1="44" x2="760" y2="44" stroke="#21262d" stroke-width="1"/>
+
+  <!-- bar config: label x=40, bar x=160, bar width max=540, bar height=8, percent text x=710 -->
+
+  <!-- Java 90% -->
+  <text x="40" y="76" font-size="12" fill="#e6edf3">Java</text>
+  <rect x="160" y="66" width="540" height="8" rx="4" fill="#21262d"/>
+  <rect x="160" y="66" width="486" height="8" rx="4" fill="url(#g1)"/>
+  <text x="712" y="76" font-size="11" fill="#58a6ff" font-weight="500">90%</text>
+
+  <!-- Python 85% -->
+  <text x="40" y="114" font-size="12" fill="#e6edf3">Python</text>
+  <rect x="160" y="104" width="540" height="8" rx="4" fill="#21262d"/>
+  <rect x="160" y="104" width="459" height="8" rx="4" fill="url(#g2)"/>
+  <text x="712" y="114" font-size="11" fill="#3fb950" font-weight="500">85%</text>
+
+  <!-- Spring 82% -->
+  <text x="40" y="152" font-size="12" fill="#e6edf3">Spring</text>
+  <rect x="160" y="142" width="540" height="8" rx="4" fill="#21262d"/>
+  <rect x="160" y="142" width="443" height="8" rx="4" fill="url(#g3)"/>
+  <text x="712" y="152" font-size="11" fill="#58a6ff" font-weight="500">82%</text>
+
+  <!-- Flutter 78% -->
+  <text x="40" y="190" font-size="12" fill="#e6edf3">Flutter</text>
+  <rect x="160" y="180" width="540" height="8" rx="4" fill="#21262d"/>
+  <rect x="160" y="180" width="421" height="8" rx="4" fill="url(#g4)"/>
+  <text x="712" y="190" font-size="11" fill="#79c0ff" font-weight="500">78%</text>
+
+  <!-- Node.js 70% -->
+  <text x="40" y="228" font-size="12" fill="#e6edf3">Node.js</text>
+  <rect x="160" y="218" width="540" height="8" rx="4" fill="#21262d"/>
+  <rect x="160" y="218" width="378" height="8" rx="4" fill="url(#g5)"/>
+  <text x="712" y="228" font-size="11" fill="#3fb950" font-weight="500">70%</text>
+
+  <!-- JS/React 65% — second SVG needed if more rows, but let's keep 5 clean -->
+</svg>

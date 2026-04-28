@@ -1,0 +1,122 @@
+<svg viewBox="0 0 800 310" xmlns="http://www.w3.org/2000/svg" width="800" height="310">
+  <defs>
+    <style>
+      text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="800" height="310" fill="#0d1117" rx="12"/>
+
+  <!-- section title -->
+  <text x="40" y="38" font-size="11" fill="#8b949e" letter-spacing="1.5" font-weight="500">TECH STACK</text>
+
+  <!-- row separators -->
+  <line x1="40" y1="48" x2="760" y2="48" stroke="#21262d" stroke-width="1"/>
+  <line x1="40" y1="96" x2="760" y2="96" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="40" y1="144" x2="760" y2="144" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="40" y1="192" x2="760" y2="192" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="40" y1="240" x2="760" y2="240" stroke="#21262d" stroke-width="0.5"/>
+  <line x1="40" y1="288" x2="760" y2="288" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- vertical separator -->
+  <line x1="160" y1="48" x2="160" y2="300" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- category labels -->
+  <text x="40" y="77" font-size="12" fill="#8b949e" font-weight="500">Language</text>
+  <text x="40" y="125" font-size="12" fill="#8b949e" font-weight="500">Backend</text>
+  <text x="40" y="173" font-size="12" fill="#8b949e" font-weight="500">Frontend</text>
+  <text x="40" y="221" font-size="12" fill="#8b949e" font-weight="500">Database</text>
+  <text x="40" y="269" font-size="12" fill="#8b949e" font-weight="500">Infra</text>
+  <text x="40" y="302" font-size="12" fill="#8b949e" font-weight="500">Tools</text>
+
+  <!-- helper: badge(x, y, text, bg, textColor) -->
+  <!-- Language row y=57~88 center=72 -->
+  <!-- Java -->
+  <rect x="176" y="58" width="52" height="22" rx="11" fill="#1c2d3a"/>
+  <text x="202" y="73" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">Java</text>
+
+  <!-- Python -->
+  <rect x="234" y="58" width="62" height="22" rx="11" fill="#1c3320"/>
+  <text x="265" y="73" text-anchor="middle" font-size="11" fill="#3fb950" font-weight="500">Python</text>
+
+  <!-- JavaScript -->
+  <rect x="302" y="58" width="86" height="22" rx="11" fill="#2d2a0a"/>
+  <text x="345" y="73" text-anchor="middle" font-size="11" fill="#e3b341" font-weight="500">JavaScript</text>
+
+  <!-- Dart -->
+  <rect x="394" y="58" width="50" height="22" rx="11" fill="#0d2040"/>
+  <text x="419" y="73" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">Dart</text>
+
+  <!-- C -->
+  <rect x="450" y="58" width="34" height="22" rx="11" fill="#1e2533"/>
+  <text x="467" y="73" text-anchor="middle" font-size="11" fill="#8b949e" font-weight="500">C</text>
+
+  <!-- Backend row -->
+  <!-- Spring -->
+  <rect x="176" y="106" width="62" height="22" rx="11" fill="#1a3020"/>
+  <text x="207" y="121" text-anchor="middle" font-size="11" fill="#3fb950" font-weight="500">Spring</text>
+
+  <!-- Node.js -->
+  <rect x="244" y="106" width="64" height="22" rx="11" fill="#1a3020"/>
+  <text x="276" y="121" text-anchor="middle" font-size="11" fill="#3fb950" font-weight="500">Node.js</text>
+
+  <!-- JSP -->
+  <rect x="314" y="106" width="44" height="22" rx="11" fill="#1c2d3a"/>
+  <text x="336" y="121" text-anchor="middle" font-size="11" fill="#8b949e" font-weight="500">JSP</text>
+
+  <!-- Frontend row -->
+  <!-- React -->
+  <rect x="176" y="154" width="58" height="22" rx="11" fill="#0d2535"/>
+  <text x="205" y="169" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">React</text>
+
+  <!-- Flutter -->
+  <rect x="240" y="154" width="62" height="22" rx="11" fill="#0d2040"/>
+  <text x="271" y="169" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">Flutter</text>
+
+  <!-- Database row -->
+  <!-- MySQL -->
+  <rect x="176" y="202" width="58" height="22" rx="11" fill="#1c2d3a"/>
+  <text x="205" y="217" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">MySQL</text>
+
+  <!-- MariaDB -->
+  <rect x="240" y="202" width="68" height="22" rx="11" fill="#1c2d3a"/>
+  <text x="274" y="217" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">MariaDB</text>
+
+  <!-- OracleDB -->
+  <rect x="314" y="202" width="76" height="22" rx="11" fill="#3a1a1a"/>
+  <text x="352" y="217" text-anchor="middle" font-size="11" fill="#f85149" font-weight="500">OracleDB</text>
+
+  <!-- DBeaver -->
+  <rect x="396" y="202" width="70" height="22" rx="11" fill="#1e2533"/>
+  <text x="431" y="217" text-anchor="middle" font-size="11" fill="#8b949e" font-weight="500">DBeaver</text>
+
+  <!-- Infra row -->
+  <!-- AWS -->
+  <rect x="176" y="250" width="46" height="22" rx="11" fill="#1e2533"/>
+  <text x="199" y="265" text-anchor="middle" font-size="11" fill="#8b949e" font-weight="500">AWS</text>
+
+  <!-- Jenkins -->
+  <rect x="228" y="250" width="66" height="22" rx="11" fill="#3a1a14"/>
+  <text x="261" y="265" text-anchor="middle" font-size="11" fill="#f0883e" font-weight="500">Jenkins</text>
+
+  <!-- Linux -->
+  <rect x="300" y="250" width="54" height="22" rx="11" fill="#2a2710"/>
+  <text x="327" y="265" text-anchor="middle" font-size="11" fill="#e3b341" font-weight="500">Linux</text>
+
+  <!-- Tools row -->
+  <!-- Git -->
+  <rect x="176" y="283" width="44" height="22" rx="11" fill="#2d1a14"/>
+  <text x="198" y="298" text-anchor="middle" font-size="11" fill="#f0883e" font-weight="500">Git</text>
+
+  <!-- Sourcetree -->
+  <rect x="226" y="283" width="82" height="22" rx="11" fill="#1c2d3a"/>
+  <text x="267" y="298" text-anchor="middle" font-size="11" fill="#58a6ff" font-weight="500">Sourcetree</text>
+
+  <!-- Postman -->
+  <rect x="314" y="283" width="70" height="22" rx="11" fill="#2d1a14"/>
+  <text x="349" y="298" text-anchor="middle" font-size="11" fill="#f0883e" font-weight="500">Postman</text>
+
+  <!-- Notion -->
+  <rect x="390" y="283" width="62" height="22" rx="11" fill="#1e2533"/>
+  <text x="421" y="298" text-anchor="middle" font-size="11" fill="#e6edf3" font-weight="500">Notion</text>
+</svg>

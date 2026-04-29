@@ -16,13 +16,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="./proficiency.svg" width="100%" alt="proficiency"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>✦ open to collaboration · updated 2026</sub>
-</div>
